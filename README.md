@@ -12,7 +12,7 @@
 ## 🛠 Tech Stack
 - C++ | JavaScript | React | Node.js | Express | MongoDB
 - Git | GitHub | REST APIs
-- ## 🛠 Tech Badges
+ ## 🛠 Tech Badges
 
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
