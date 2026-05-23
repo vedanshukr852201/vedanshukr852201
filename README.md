@@ -12,6 +12,13 @@
 ## 🛠 Tech Stack
 - C++ | JavaScript | React | Node.js | Express | MongoDB
 - Git | GitHub | REST APIs
+- ## 🛠 Tech Badges
+
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 
 ## 📫 Connect With Me
 - LinkedIn:https://www.linkedin.com/in/vedanshu-kumar-0a4437295/
