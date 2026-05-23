@@ -22,4 +22,13 @@
 
 ## 📫 Connect With Me
 - LinkedIn:https://www.linkedin.com/in/vedanshu-kumar-0a4437295/
+## 📊 GitHub Stats
 
+![Vedanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedanshukr852201&show_icons=true)
+
+## 🚀 Featured Project
+
+### MERN Assessment App
+- Full Stack MERN application
+- Authentication & Result Management
+- Built using React, Node.js, Express & MongoDB
