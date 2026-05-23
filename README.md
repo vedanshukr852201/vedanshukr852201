@@ -14,5 +14,5 @@
 - Git | GitHub | REST APIs
 
 ## 📫 Connect With Me
-- LinkedIn: your-linkedin-link
+- LinkedIn:https://www.linkedin.com/in/vedanshu-kumar-0a4437295/
 
