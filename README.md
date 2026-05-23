@@ -1,16 +1,18 @@
 ## Hi there 👋
 
 <!--
-**vedanshukr852201/vedanshukr852201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Vedanshu 👋
 
-Here are some ideas to get you started:
+🎓 CSE Undergraduate at NIT Warangal  
+💻 Passionate Full Stack Developer (MERN)  
+🚀 Solving DSA Problems & Building Real-World Projects  
+🌱 Currently Exploring Backend Development & System Design  
+⚡ Love coding, problem solving, and learning new technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠 Tech Stack
+- C++ | JavaScript | React | Node.js | Express | MongoDB
+- Git | GitHub | REST APIs
+
+## 📫 Connect With Me
+- LinkedIn: your-linkedin-link
 -->
