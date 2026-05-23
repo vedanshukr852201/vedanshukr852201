@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # Hi there, I'm Vedanshu 👋
 
 🎓 CSE Undergraduate at NIT Warangal  
@@ -15,4 +15,4 @@
 
 ## 📫 Connect With Me
 - LinkedIn: your-linkedin-link
--->
+
